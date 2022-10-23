@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="login_text">LOGIN</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="register">Don\'t have an account?</string>
+    <string name="register2">Register</string>
+
+</resources>
